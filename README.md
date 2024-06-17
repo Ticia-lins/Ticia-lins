@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+
 <h2 align="left">Hellou World🌏</h2>
 
 ###
@@ -29,10 +32,16 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<img align="center" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<h2 align="left"></h2>
+
+<!-- GIF -->
+
+  <img align="center" src="https://pbs.twimg.com/media/ELHPm7TVUAA6_oG?format=png&name=medium" alt="Imagem">
 
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
 
