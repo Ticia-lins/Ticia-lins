@@ -5,7 +5,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E9AFE&size=35&center=true&vCenter=true&width=1000&lines=Oii😊,+Meu+Nome+É+Letícia+Lins;Eu+Tenho+17+Anos+;E+Estou+Estudando+Informática+Para+internet+;+Sou+De+Paulista+-+PE;+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E9AFE&size=35&center=true&vCenter=true&width=1000&lines=Oii😊,+Meu+Nome+É+Letícia+Lins;Eu+Tenho+17+Anos+;E+Estou+Estudando+Informática+Para+Internet+;+Sou+De+Paulista+-+PE;+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
   <div align="center">  
