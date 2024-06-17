@@ -45,6 +45,9 @@
 
 
 
+![snake gif](https://github.com/ticia-lins/ticia-lins/blob/output/github-contribution-grid-snake-dark.svg)
+
+![snake gif](https://github.com/ticia-lins/ticia-lins/blob/output/github-contribution-grid-snake.svg)
 
   
 
