@@ -39,8 +39,5 @@
 
   <img align="center" src="https://pbs.twimg.com/media/ELHPm7TVUAA6_oG?format=png&name=medium" alt="Imagem">
 
-
-  
-
-
 <br clear="both">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
