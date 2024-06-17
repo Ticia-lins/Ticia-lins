@@ -39,12 +39,6 @@
 
   <img align="center" src="https://pbs.twimg.com/media/ELHPm7TVUAA6_oG?format=png&name=medium" alt="Imagem">
 
-
-
-
-
-![snake gif](https://github.com/ticia-lins/ticia-lins/blob/output/github-contribution-grid-snake.svg)
-
   
 
 
