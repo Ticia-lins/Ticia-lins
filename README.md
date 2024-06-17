@@ -1,16 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E9AFE&height=120&section=header"/>
 
 
 <h2 align="left">Hellou World🌏</h2>
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oii😊,+Meu+Nome+É+Letícia+Lins;Eu+Tenho+17+Anos+;E+Estou+Estudando+Informática+Para+internet+;+Sou+De+Paulista+-+PE;+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E9AFE&size=35&center=true&vCenter=true&width=1000&lines=Oii😊,+Meu+Nome+É+Letícia+Lins;Eu+Tenho+17+Anos+;E+Estou+Estudando+Informática+Para+internet+;+Sou+De+Paulista+-+PE;+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ticia-lins&show_icons=true&count_private=true&hide_border=true&title_color=23829dbfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ticia-lins github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ticia-lins&layout=compact&hide_border=true&title_color=23829dbfbf&text_color=00bfbf&bg_color=0d1117" />
+    
+
+ </div>
+
 </div>
 
 
@@ -40,4 +44,4 @@
   <img align="center" src="https://pbs.twimg.com/media/ELHPm7TVUAA6_oG?format=png&name=medium" alt="Imagem">
 
 <br clear="both">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E9AFE&height=120&section=footer"/>
