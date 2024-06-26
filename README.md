@@ -41,9 +41,11 @@
 
 <h2 align="left"></h2>
 
-<!-- GIF -->
-
   <img align="center" src="https://pbs.twimg.com/media/ELHPm7TVUAA6_oG?format=png&name=medium" alt="Imagem">
+  <br>
+<br>
+<br>
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2ticia-lins&s=50&c=2E9AFE&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 
 <br clear="both">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E9AFE&height=120&section=footer"/>
