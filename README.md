@@ -14,7 +14,7 @@
     
  <h2 align="left"></h2>
 <img width=30% align="right" src="https://media.tenor.com/KAhjMr8idd4AAAAi/duolingo-owl.gi"/>
-<br>
+
 <br>
 <div align="center">
 
