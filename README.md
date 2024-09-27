@@ -21,7 +21,7 @@
    
 <div align="center">
 
-
+<img width=30% align="right" src="https://media.tenor.com/KAhjMr8idd4AAAAi/duolingo-owl.gi"/>
 
 ### Ferramentas 🛠️
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
@@ -30,7 +30,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 
-
+ 
   
   ### Estudando no mometo 👩‍💻
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -39,7 +39,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 
-<h2 align="left"></h2>
+
+
 
   <img align="center" src="https://pbs.twimg.com/media/ELHPm7TVUAA6_oG?format=png&name=medium" alt="Imagem">
   <br>
